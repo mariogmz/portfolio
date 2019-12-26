@@ -1,7 +1,7 @@
 ---
 title: "Software Engineer"
 company: "michelada.io"
-logo: ../images/companies/micheladaio/micheladaio.png
+logo: ../images/companies/softtek/softtek.png
 jobTitle: "Software Engineer"
 skills:
   [
@@ -41,57 +41,9 @@ images:
       layout: "4",
       files:
         [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-        ],
-    },
-    {
-      title: "Layout 1",
-      description: "Description text for layout 1.",
-      layout: "1",
-      files:
-        [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-        ],
-    },
-    {
-      title: "Layout 2",
-      description: "Description text for layout 2.",
-      layout: "2",
-      files:
-        [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-        ],
-      caption: "New Message",
-    },
-    {
-      title: "Layout 3",
-      description: "Description text for layout 1.",
-      layout: "3",
-      files:
-        [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-        ],
-    },
-    {
-      title: "Layout 5",
-      description: "Description text for layout 5.",
-      layout: "5",
-      files:
-        [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
+          { image: ../images/companies/softtek/softtek.png },
+          { image: ../images/companies/softtek/softtek.png },
+          { image: ../images/companies/softtek/softtek.png },
         ],
     },
   ]
