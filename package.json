@@ -1,0 +1,12 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@christiandavid/gatsby-theme-byfolio": "^1.0.8",
+    "gatsby": "^2.18.16",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
