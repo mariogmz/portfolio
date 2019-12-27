@@ -1,7 +1,7 @@
 ---
-title: "Software Engineer"
+title: ""
 company: "michelada.io"
-logo: ../images/companies/micheladaio/micheladaio.png
+logo: ../images/companies/micheladaio.png
 jobTitle: "Software Engineer"
 skills:
   [
@@ -16,12 +16,9 @@ skills:
     { title: "PHP", image: ../images/skills/php.png },
     { title: "Laravel", image: ../images/skills/laravel.png },
     { title: "SASS", image: ../images/skills/sass.png },
-    { title: "NodeJS", image: ../images/skills/node.png },
-    { title: "Sinatra", image: ../images/skills/sinatra.png },
+    { title: "NodeJS", image: ../images/skills/nodejs.png },
     { title: "RSpec", image: ../images/skills/rspec.png },
-    { title: "Minitest", image: ../images/skills/minitest.png },
     { title: "Cucumber", image: ../images/skills/cucumber.png },
-    { title: "Bootstrap", image: ../images/skills/boostrap.png },
     { title: "jQuery", image: ../images/skills/jquery.png },
     { title: "AWS", image: ../images/skills/aws.png },
     { title: "NGINX", image: ../images/skills/nginx.png },
@@ -29,77 +26,88 @@ skills:
     { title: "REST API", image: ../images/skills/restful.png },
     { title: "Postgresql", image: ../images/skills/postgresql.png },
     { title: "MySQL", image: ../images/skills/mysql.png },
-    { title: "Oracle Database", image: ../images/skills/oracle-database.png },
+    { title: "Oracle Database", image: ../images/skills/oracle.png },
     { title: "SQL Server", image: ../images/skills/sql-server.png },
     { title: "Java", image: ../images/skills/java.png },
   ]
 images:
   [
     {
-      title: "Layout 4",
-      description: "Description text for layout 4.",
+      title: "Mobile App Development",
+      description: "At Vlooping I had the opportunity to work on the development of the mobile App, to use message brokers, to work with streaming servers, to know about the architecture of microservices.",
       layout: "4",
       files:
         [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
         ],
     },
     {
-      title: "Layout 1",
-      description: "Description text for layout 1.",
-      layout: "1",
+      title: "Mobile App",
+      description: "I developed the Mobile App under the Objective-C language.",
+      layout: "5",
       files:
         [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
         ],
     },
     {
-      title: "Layout 2",
-      description: "Description text for layout 2.",
+      title: "Queue",
+      description: 'Once the video or audio streaming was finished, the message was sent through RabbitMQ to be processed by another service "Convert to different audio or video formats".',
       layout: "2",
       files:
         [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
         ],
       caption: "New Message",
     },
     {
-      title: "Layout 3",
-      description: "Description text for layout 1.",
-      layout: "3",
-      files:
-        [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-        ],
-    },
-    {
-      title: "Layout 5",
-      description: "Description text for layout 5.",
+      title: "Social network",
+      description: 'Also, I worked in the Core of the App, specifically in the sections of feed of posts, show publications of users, I implemented the API''s of Facebook, Youtube and Twitter to upload the messages "Video, audio or Text" to those platforms.',
       layout: "5",
       files:
         [
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
-          { image: ../images/companies/micheladaio/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+        ],
+    },
+    {
+      title: "Recording Messages",
+      description: "Recording a message was an interesting task, from the desktop version the streaming was sent directly to Red5 Media Server.",
+      layout: "1",
+      files:
+        [
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+        ],
+    },
+    {
+      title: "Report Content",
+      description: "I developed the algorithm to block or remove content that went against the terms of use.",
+      layout: "1",
+      files:
+        [
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio.png },
         ],
     },
   ]
 dateFrom: "2019-03-04"
 dateTo: "2020-03-04"
 ---
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-- Contrary to popular belief, Lorem Ipsum is not simply random text
-- It is a long established fact that a reader will be distracted by the readable content of a page
-- There are many variations of passages of Lorem Ipsum available
-- The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested
+
+- Responsible for the analysis, design and programming of the mobile application in Objective C for iOS
+- In charge of the development of the application for Red5 in Java
+- Construction of the bot for optimization of video, audio and images of the platform
+- Creation of multiple APIs RESTful PHP
+- In charge of the graphical interface of vlooping.com
