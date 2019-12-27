@@ -33,72 +33,37 @@ skills:
 images:
   [
     {
-      title: "Mobile App Development",
-      description: "At Vlooping I had the opportunity to work on the development of the mobile App, to use message brokers, to work with streaming servers, to know about the architecture of microservices.",
+      title: "Coolture",
+      description: "At michelada.io I'm having such a good time, it feels like a bunch of friends doing what we love most.",
       layout: "4",
       files:
         [
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio/coolture/1.jpg },
+          { image: ../images/companies/micheladaio/coolture/2.jpg },
+          { image: ../images/companies/micheladaio/coolture/3.jpg },
         ],
     },
     {
-      title: "Mobile App",
-      description: "I developed the Mobile App under the Objective-C language.",
+      title: "Software Engineering",
+      description: "I do a lot of Ruby and Ruby on Rails, but we are always challenged to do some other stuff like devops and frontend.",
       layout: "5",
       files:
         [
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio/software-engineering/padawan.jpg },
+          { image: ../images/companies/micheladaio/software-engineering/hackorama.jpg },
+          { image: ../images/companies/micheladaio/software-engineering/rails-bridge.jpg },
         ],
+      caption: "Hello"
     },
     {
-      title: "Queue",
-      description: 'Once the video or audio streaming was finished, the message was sent through RabbitMQ to be processed by another service "Convert to different audio or video formats".',
-      layout: "2",
-      files:
-        [
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-        ],
-      caption: "New Message",
-    },
-    {
-      title: "Social network",
-      description: 'Also, I worked in the Core of the App, specifically in the sections of feed of posts, show publications of users, I implemented the API''s of Facebook, Youtube and Twitter to upload the messages "Video, audio or Text" to those platforms.',
+      title: "Give Back",
+      description: "I'm always looking for a way to give back to communities: meetups, conferences, workshops, lighting-talks",
       layout: "5",
       files:
         [
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-        ],
-    },
-    {
-      title: "Recording Messages",
-      description: "Recording a message was an interesting task, from the desktop version the streaming was sent directly to Red5 Media Server.",
-      layout: "1",
-      files:
-        [
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-        ],
-    },
-    {
-      title: "Report Content",
-      description: "I developed the algorithm to block or remove content that went against the terms of use.",
-      layout: "1",
-      files:
-        [
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
-          { image: ../images/companies/micheladaio.png },
+          { image: ../images/companies/micheladaio/give-back/1.jpg },
+          { image: ../images/companies/micheladaio/give-back/2.jpg },
+          { image: ../images/companies/micheladaio/give-back/3.jpg },
         ],
     },
   ]
@@ -106,8 +71,7 @@ dateFrom: "2019-03-04"
 dateTo: "2020-03-04"
 ---
 
-- Responsible for the analysis, design and programming of the mobile application in Objective C for iOS
-- In charge of the development of the application for Red5 in Java
-- Construction of the bot for optimization of video, audio and images of the platform
-- Creation of multiple APIs RESTful PHP
-- In charge of the graphical interface of vlooping.com
+- Full Stack Developer on web applications using Ruby ❤️.
+- Built an inhouse product to give loans to michelada employees. (https://prestavaro.com)
+- Creation of RESTful APIs using Ruby and Grape
+- Built fast software using vanilla JS and some CSS/HTML Magic.
