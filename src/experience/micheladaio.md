@@ -29,6 +29,18 @@ skills:
     { title: "Oracle Database", image: ../images/skills/oracle.png },
     { title: "SQL Server", image: ../images/skills/sql-server.png },
     { title: "Java", image: ../images/skills/java.png },
+    { title: "AEM", image: ../images/skills/aem.png },
+    { title: "Angular JS", image: ../images/skills/angularjs.png },
+    { title: "Bash Scripting", image: ../images/skills/bash.png },
+    { title: "C#", image: ../images/skills/csharp.png },
+    { title: "C++", image: ../images/skills/cplusplus.png },
+    { title: "Grape", image: ../images/skills/grape.png },
+    { title: "Scrum", image: ../images/skills/scrum.png },
+    { title: "Sinatra", image: ../images/skills/sinatra.png },
+    { title: "Linux", image: ../images/skills/tux.png },
+    { title: "Visual Basic", image: ../images/skills/visual-basic.png },
+    { title: "Windows Server", image: ../images/skills/windows-server.png },
+    { title: "Zend Framework", image: ../images/skills/zend.png },
   ]
 images:
   [
