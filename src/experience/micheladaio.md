@@ -80,7 +80,7 @@ images:
     },
   ]
 dateFrom: "2019-03-04"
-dateTo: "2020-03-04"
+dateTo: "2020-12-31"
 ---
 
 - Full Stack Developer on web applications using Ruby ❤️.
