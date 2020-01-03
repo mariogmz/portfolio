@@ -36,7 +36,7 @@ dateFrom: "2016-11-01"
 dateTo: "2017-10-01"
 ---
 
+- Part of the software development team, I worked remotely in upgrades, integrations and improvements to the Agency applications, creating integrations to make the service more useful for their clients, connecting insurance agents and potential clients faster, third party integrations using edge technologies and mostly using Ruby on Rails as the software platform.
 - Full Stack Developer on web applications using Ruby ❤️.
-- Maintained their dashboards using ember and ruby.
 - Creation of RESTful APIs using plain Ruby and Sinatra.
 - Write technical documentation.

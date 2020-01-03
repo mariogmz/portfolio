@@ -40,8 +40,8 @@ dateFrom: "2015-04-01"
 dateTo: "2016-02-01"
 ---
 
-- Full Stack Developer on web applications using PHP.
-- Migrated an entire custom-made e-commerce app from Zend to Laravel/Angular.
-- Implemented lot of software engineering practices.
-- Lots of fixing and tweaking servers.
+- Back End Developer, maintain and develop modules for the business internal system, using several technologies, mainly programming using PHP5 over Zend Framework 1.11 and MySQL databases on the model layer, currently working on a migration to Laravel 5 Framework over a RESTful service architecture.
+- Front End Developer, extending the UI of both internal system and commercial webpage, using tools like jQuery and jQuery UI, currently developing new project under AngularJS, Bootstrap, SASS, and using Node Webkit for native HTML5 Cross-Platform Applications.
+- Data base designer, creating data base schemas, database engine analysis looking always to improve performance, normalization over existing tables.
+- Software Engineer, creating documentation for existing business processes, implementing new methods of software development, UML design.
 - Devops tasks using private CentOS servers.
