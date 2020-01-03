@@ -2,7 +2,7 @@
 title: ""
 company: "Seis10"
 logo: ../images/companies/seis10.png
-jobTitle: "Software Engineer"
+jobTitle: "Full Stack Developer"
 skills:
   [
     { title: "Javascript", image: ../images/skills/js.png },
